@@ -17,10 +17,7 @@ extensions = [
     "sphinx.ext.viewcode",
     "sphinx.ext.autodoc",
     "sphinx.ext.ifconfig",
-    "sphinx.ext.intersphinx",
-    "sphinx_substitution_extensions",
-    "sphinx_copybutton",
-    "sphinxcontrib.towncrier.ext",
+    "sphinx.ext.intersphinx"
 ]
 
 rst_prolog = f"""
